@@ -1,0 +1,15 @@
+Privacy Policy – To Do List
+
+App Name: To Do List
+Developer: Nabixo Studio
+
+Privacy Policy:
+
+- To Do List does not collect any personal information.
+- All tasks and data are stored locally on your device.
+- No login or account creation is required.
+- The app may display AdMob banner ads. Ad providers may collect anonymous data according to their policies.
+- The app works completely offline.
+
+Contact:
+nabixostudio@gmail.com
